@@ -1,5 +1,5 @@
 # Lab1 & 2 -Microwave Laboratory Project
-Microwave Laboratory Project (Dec 2025) –Team project (3 members)
+Microwave Laboratory Project (Jan 2026) –Team project (3 members)
 ## Lab 1: 
 **Mixer Characterization** – Experimentally characterized an RF mixer by measuring desired and spurious mixing products, conversion loss, 1-dB compression point (CP1), and third-order intercept point (IP3) through two-tone intermodulation measurements. Evaluated the mixer’s dynamic range and spurious-free dynamic range (SFDR), and used it as a phase detector to measure phase response. Processed measurement data and performed IP3/SFDR extrapolation and sinusoidal fitting using MATLAB.
 
